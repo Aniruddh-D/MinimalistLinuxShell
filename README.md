@@ -1,4 +1,4 @@
-# Minimalist Shell
+# Minimalist Linux Shell
 
 A simple, lightweight shell implementation in C with support for I/O redirection and pipes.
 
@@ -25,7 +25,7 @@ This project implements a functional command-line shell in C, similar to bash or
 ## Project Structure
 
 ```
-MinimalistShell/
+MinimalistLinuxShell/
 ├── src/
 │   └── shell-modify.c    # Main source code for the shell
 └── README.md             # This file
