@@ -90,7 +90,7 @@ Internship Team-12 at Sasken:
 3. Aryan Saxena
 4. Abhilash Dalai
 5. Vishesh Kumar Bhagat
-6. Smritparna Mahanty
+6. Smritiparna Mahanty
 
 ## Dependencies
 
